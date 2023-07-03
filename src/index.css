@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-primary {
+  @apply text-[#C7D501]
+}
+.bg-primary {
+  @apply bg-[#C7D501]
+}
